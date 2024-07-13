@@ -270,7 +270,7 @@ with col5:
 
 st.subheader('Transkrip Nilai')
 
-st.write('Semester 1')
+st.write('1st Semester')
 
 col1, col2, col3 = st.columns(3)
 
@@ -306,7 +306,7 @@ with col3:
     curricularUnits1stSemWithoutEvaluations = int(st.number_input(label='CurricularUnits1stSemWithoutEvaluations', value=0))
     data['CurricularUnits1stSemWithoutEvaluations'] = [curricularUnits1stSemWithoutEvaluations]
 
-st.write('Semester 2')
+st.write('2nd Semester')
 
 col1, col2, col3 = st.columns(3)
 
