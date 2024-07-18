@@ -3,7 +3,7 @@
 ## Business Understanding
 Jaya Jaya Institut is one of the college educational institutions that has been established since 2000. Until now it has produced many graduates with an excellent reputation. However, there are also many students who do not complete their education, aka dropouts.
 
-### Business Issues
+### Business Problems
 This high number of dropouts is certainly one of the big problems for an educational institution. The high student dropout rate at Jaya Jaya Institute threatens the quality of education and the sustainability of the institution. This phenomenon not only affects the individual dropouts, but also has a broad impact on the quality of education, the reputation of the institution, as well as the financial and operational aspects of the institution. Therefore, Jaya Jaya Institut wants to detect as soon as possible students who might dropout so that they can be given specialised guidance. 
 
 ### Project Scope
